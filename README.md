@@ -1,7 +1,11 @@
+
 # mPlay
-A MUSIC PLAYER APP CAPABLE OF PLAYING MP3 FILES ALSO HAVING FUCTIONALITY LIKE 
-PLAY
-PAUSE
-PREVIOUS
-NEXT
-SHUFFLE 
+Music Player For android.
+Built Using Java.
+
+## Features
+- Play any Audio Files 
+- Pause , Play , Shuffle
+
+## 🔗 Links
+Drive Link ---> https://drive.google.com/file/d/1GTtYjQeVXieh-J5unFWmAscOsHTQ23-a/view
